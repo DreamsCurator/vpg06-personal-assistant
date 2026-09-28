@@ -2,3 +2,6 @@ pinecone
 openai
 pyTelegramBotAPI
 python-dotenv
+haystack-ai
+pinecone-haystack
+loguru
