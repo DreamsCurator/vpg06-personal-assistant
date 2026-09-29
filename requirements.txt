@@ -5,3 +5,7 @@ python-dotenv
 haystack-ai
 pinecone-haystack
 loguru
+requests
+docling
+docling-haystack
+tiktoken
